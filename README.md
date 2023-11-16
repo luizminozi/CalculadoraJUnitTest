@@ -6,7 +6,7 @@ O código em questão é uma calculadora com as 4 operações básicas da matem�
 
 ##Funcionalidades e Comentários
 
-![operacao](img3.pngn.png)
+![operacao](img3.png)
 
 A imagem acima contém um exemplo de uma das operações citadas e os comentários que a pertencem.
 
